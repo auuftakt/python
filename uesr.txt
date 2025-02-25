@@ -1,0 +1,1 @@
+{"name": "auftakt", "coin": 1000}
